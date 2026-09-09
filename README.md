@@ -55,3 +55,4 @@ SPA con React Router y fallback de navegación para publicación.
 ---
 
 _Generado con Cosmos Code_
+Actualización 
